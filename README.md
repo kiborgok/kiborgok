@@ -12,5 +12,3 @@
 - 😄 Pronouns: ... -->
 <!-- - 🔭 I’m currently working on -->
 
-## Tech stack
-
