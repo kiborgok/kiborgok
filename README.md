@@ -1,4 +1,4 @@
-##                                                              Hi there, I'm Alex Kiborgok 👋
+##                                                              Hi there, I'm Alex 👋
 
 ## About me
 - :heart: I love open source.
