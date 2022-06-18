@@ -18,8 +18,9 @@
 
 ### Languages and Frameworks
 <p float="left">
-  
-  <img src="https://img.shields.io/badge/-MySQL-0078D6?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/"/>
+  <img src="https://img.shields.io/badge/-Postgresql-0078F6?style=for-the-badge&logo=PostgreSQL&logoColor=blue&link=https://www.postgresql.org"/>
+	
+  <img src="https://img.shields.io/badge/-MySQL-0078D6?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/" />
 
   <img src="https://img.shields.io/badge/-Python-2E2EFE?style=for-the-badge&logo=Python&logoColor=white&link=https://www.python.org/" />
 
