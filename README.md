@@ -17,13 +17,29 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=kiborgok)
 
 ### Languages and Frameworks
-<div style="display: inline_block"><br>
-        <img align="center" alt="Js" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Node" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <img align="center" alt="MongoDB" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="postgresql" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Python" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <img align="center" alt="Flask" height="30" width="40" style="margin: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="HTML" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="CSS" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p float="left">
+  
+  <img src="https://img.shields.io/badge/-MySQL-0078D6?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/"/>
+
+  <img src="https://img.shields.io/badge/-Python-2E2EFE?style=for-the-badge&logo=Python&logoColor=white&link=https://www.python.org/" />
+
+  <img src="https://img.shields.io/badge/-Flask-323330?style=for-the-badge&logo=flask&logoColor=white&link=https://flask.palletsprojects.com" />
+
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://nodejs.org/" />
+  
+  <img src="https://img.shields.io/badge/JavaScript-c7b302?style=for-the-badge&logo=javascript&logoColor=white&link=https://www.javascript.com" />
+  
+  <img src="https://img.shields.io/badge/Jquery-3fa6cc?style=for-the-badge&logo=jquery&logoColor=blue&link=https://jquery.com" />
+		
+  <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=CSS3&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/React.js-6699CC?style=for-the-badge&logo=react&logoColor=white&link=https://pt-br.reactjs.org" />
+
+  <img src="https://img.shields.io/badge/-Java-ff4500?style=for-the-badge&logo=Java&logoColor=white&link=https://java.oracle.com/" />
+  
+  <img src="https://img.shields.io/badge/-Kotlin-200259?style=for-the-badge&logo=Kotlin&logoColor=darkpurple&link=https://kotlinlang.org/" />
+	
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&link=https://unity.com/" />
+  
+</p>
 
