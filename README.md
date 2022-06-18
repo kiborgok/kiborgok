@@ -25,7 +25,7 @@
 
   <img src="https://img.shields.io/badge/-Flask-323330?style=for-the-badge&logo=flask&logoColor=white&link=https://flask.palletsprojects.com" />
 	
-  <img src="https://img.shields.io/badge/-MySQL-0078D6?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/"/>
+  <img src="https://img.shields.io/badge/-MySQL-0078D6?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/" />
 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://nodejs.org/" />
   
