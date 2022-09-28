@@ -24,9 +24,9 @@
 
   <img src="https://img.shields.io/badge/-Python-2E2EFE?style=for-the-badge&logo=Python&logoColor=white&link=https://www.python.org/" />
   
-  <img src="https://img.shields.io/badge/-Ruby-2E2EFE?style=for-the-badge&logo=Python&logoColor=white&link=https://www.python.org/" />
+  <img src="https://img.shields.io/badge/-Ruby-9b111e?style=for-the-badge&logo=Python&logoColor=white&link=https://www.python.org/" />
   
-  <img src="https://img.shields.io/badge/-Rubyonrails-2E2EFE?style=for-the-badge&logo=Rubyonrails&logoColor=white&link=https://www.rubyonrails.org/" />
+  <img src="https://img.shields.io/badge/-Rubyonrails-9b111e?style=for-the-badge&logo=Rubyonrails&logoColor=white&link=https://www.rubyonrails.org/" />
 
   <img src="https://img.shields.io/badge/-Flask-323330?style=for-the-badge&logo=flask&logoColor=white&link=https://flask.palletsprojects.com" />
 
