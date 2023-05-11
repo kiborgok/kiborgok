@@ -2,7 +2,7 @@
 
 ## About me
 - :heart: I love open source.
-- 🌱 I’m currently learning C#.
+<!-- - 🌱 I’m currently learning C#. -->
 - 💬 Ask me about anything.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
