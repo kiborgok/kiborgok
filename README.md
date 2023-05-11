@@ -11,11 +11,12 @@
 - 😄 Pronouns: ... -->
 <!-- - 🔭 I’m currently working on -->
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=kiborgok)
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=kiborgok) -->
 
 ### Languages and Frameworks
 <p float="left">
   <img src="https://img.shields.io/badge/-Postgresql-0078F6?style=for-the-badge&logo=PostgreSQL&logoColor=blue&link=https://www.postgresql.org"/>
+<img src="https://img.shields.io/badge/-Java-9b111e?style=for-the-badge&logo=java&logoColor=red&link=https://java.com" />
 	
   <img src="https://img.shields.io/badge/-MySQL-0078D6?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/" />
 
@@ -31,7 +32,7 @@
   
   <img src="https://img.shields.io/badge/JavaScript-c7b302?style=for-the-badge&logo=javascript&logoColor=white&link=https://www.javascript.com" />
   
-  <img src="https://img.shields.io/badge/Jquery-3fa6cc?style=for-the-badge&logo=jquery&logoColor=blue&link=https://jquery.com" />
+<!--   <img src="https://img.shields.io/badge/Jquery-3fa6cc?style=for-the-badge&logo=jquery&logoColor=blue&link=https://jquery.com" /> -->
 		
   <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=CSS3&logoColor=white" />
   
